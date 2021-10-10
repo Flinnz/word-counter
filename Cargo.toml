@@ -7,3 +7,4 @@ edition = "2018"
 
 [dependencies]
 bstr = "0.2.17"
+threadpool = "1.8.1"
